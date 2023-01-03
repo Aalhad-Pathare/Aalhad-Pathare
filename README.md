@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aalhad-Pathare
 - 👀 I’m interested in front end web development and user experience
-- 🌱 I’m currently learning Computer Science with a software engineering concentration at Indiana University
+- 🌱 I’m currently learning Computer Science with a software engineering concentration at University of Texas - Dallas
 - 📫 I can be reached at aalhadpathare@gmail.com
 
 <!---
